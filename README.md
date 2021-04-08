@@ -15,4 +15,4 @@ Currently learning: ✍
 Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-homem)](https://www.linkedin.com/in/matheus-homem)  
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the- badge&logo=medium&logoColor=white&link=https://medium.com/@matheus.homem)](https://medium.com/@matheus.homem)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@matheus.homem)](https://medium.com/@matheus.homem)
