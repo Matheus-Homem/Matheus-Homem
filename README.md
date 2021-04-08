@@ -20,7 +20,7 @@ Contato:
 https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg
 
 <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>  
 
 
