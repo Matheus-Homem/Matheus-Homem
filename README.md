@@ -12,12 +12,6 @@ Experienced with: 💪
 Currently learning: ✍
  - Statistics;
 
-Contato:
+Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-homem)](https://www.linkedin.com/in/matheus-homem)   [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@matheus.homem)](https://medium.com/@matheus.homem)
-
-<a href="#">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
-  </a>  
-
-
