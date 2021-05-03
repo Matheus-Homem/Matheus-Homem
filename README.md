@@ -1,8 +1,6 @@
 # Hey, I'm Matheus Homem! ✌
 
-I study Data Science and doing AI projects is one of my favorite hobbies. 🤖
-
-In my repos you will find several problems of a variety of subjects solved with techniques of Data Analysis and Machine Learning. 📊
+![Red and Blue Water Sprayer Housekeeper Business Card](https://user-images.githubusercontent.com/48516350/116867097-d934b200-abe2-11eb-882d-bd8297c69262.png)
 
 ## But wait, who am I?
  - 📊 Data Science Student 📊
@@ -17,7 +15,7 @@ In my repos you will find several problems of a variety of subjects solved with 
  - 🗃️ SQL 🗃️
 
 
-## Talk to Me:
+## Talk to me!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-homem)](https://www.linkedin.com/in/matheus-homem)
 
