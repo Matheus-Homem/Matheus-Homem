@@ -1,6 +1,6 @@
 # Hey, I'm Matheus Homem! ✌
 
-![Red and Blue Water Sprayer Housekeeper Business Card](https://user-images.githubusercontent.com/48516350/116867097-d934b200-abe2-11eb-882d-bd8297c69262.png)
+![Red and Blue Water Sprayer Housekeeper Business Card (1)](https://user-images.githubusercontent.com/48516350/117002146-8ed23480-acb9-11eb-82d7-877eede809ca.png)
 
 ## But wait, who am I?
  - 📊 Data Science Student 📊
