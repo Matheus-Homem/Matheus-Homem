@@ -1,6 +1,6 @@
 # Hey, I'm Matheus Homem! ✌
 
-![imageonline-co-whitebackgroundremoved (6)](https://user-images.githubusercontent.com/48516350/117135964-15e8e080-ad7e-11eb-9a0f-05bbc0f86328.png)
+![imageonline-co-whitebackgroundremoved (8)](https://user-images.githubusercontent.com/48516350/117138927-08cdf080-ad82-11eb-8d78-a44a099bf8a4.png)
 
 ## But wait, who am I?
  - 📊 Data Science Student
