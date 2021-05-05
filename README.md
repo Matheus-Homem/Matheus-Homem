@@ -1,18 +1,18 @@
 # Hey, I'm Matheus Homem! ✌
 
-![Red and Blue Water Sprayer Housekeeper Business Card (1)](https://user-images.githubusercontent.com/48516350/117002146-8ed23480-acb9-11eb-82d7-877eede809ca.png)
+![imageonline-co-whitebackgroundremoved (6)](https://user-images.githubusercontent.com/48516350/117135964-15e8e080-ad7e-11eb-9a0f-05bbc0f86328.png)
 
 ## But wait, who am I?
- - 📊 Data Science Student 📊
- - 📝 Medium Blogger 📝
- - 🚀 Data Driven 🚀
+ - 📊 Data Science Student
+ - 📝 Medium Blogger
+ - 🚀 Data Driven
 
 ## Skills:
- - 🤖 Machine Learning 🤖
- - 🧮 Statistics 🧮
- - 📈 Power BI 📈
- - 🐍 Python 🐍
- - 🗃️ SQL 🗃️
+ - 🤖 Machine Learning
+ - 🧮 Statistics
+ - 📈 Power BI
+ - 🐍 Python
+ - 🗃️ SQL
 
 
 ## Talk to me!
