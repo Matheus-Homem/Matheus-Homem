@@ -8,12 +8,11 @@
  - 🚀 Data Driven
 
 ## Skills:
- - 🤖 Machine Learning
- - 🧮 Statistics
- - 📈 Power BI
- - 🐍 Python
- - 🗃️ SQL
-
+ - Python ⭐⭐⭐⭐
+ - Machine Learning ⭐⭐
+ - Statistics ⭐⭐
+ - SQL ⭐
+ - Power BI ⭐⭐⭐
 
 ## Talk to me!
 
