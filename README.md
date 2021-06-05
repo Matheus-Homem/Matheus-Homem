@@ -4,7 +4,7 @@
 
 ## But wait, who am I?
  - 📊 Data Science Student
- - 📝 Medium Blogger
+ - 📝 Medium Writer
  - 🚀 Data Driven
 
 ## Skills:
