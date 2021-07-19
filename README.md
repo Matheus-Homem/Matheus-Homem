@@ -8,11 +8,11 @@
  - 🚀 Data Driven
 
 ## Skills:
- - Python ⭐⭐⭐⭐
- - Machine Learning ⭐⭐
- - Statistics ⭐⭐
- - SQL ⭐
- - Power BI ⭐⭐⭐
+ - Python
+ - Machine Learning
+ - Statistics
+ - SQL
+ - Power BI
 
 ## Talk to me!
 
@@ -23,4 +23,4 @@
 ## My Projects:
 
 - [Churn](https://github.com/Matheus-Homem/churn-project) (Completed)
-- [Drug Discovery](https://github.com/Matheus-Homem/imersao-dados-desafio-final) (On Going) 
+- [Visitor Forecasting Competition](https://github.com/Matheus-Homem/visitor-forecasting) (On Going)
