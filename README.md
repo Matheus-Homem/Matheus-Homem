@@ -23,4 +23,4 @@
 ## My Projects:
 
 - [Churn](https://github.com/Matheus-Homem/churn-project) (Completed)
-- [Visitor Forecasting Competition](https://github.com/Matheus-Homem/visitor-forecasting) (On Going)
+- [Superstore Sales Forecast](https://github.com/Matheus-Homem/superstore-sales) (On Going)
