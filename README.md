@@ -22,5 +22,5 @@
 
 ## My Projects:
 
-- [Churn](https://github.com/Matheus-Homem/churn-project) (Completed)
+- [Churn Prediction](https://github.com/Matheus-Homem/churn-project) (Completed)
 - [BigMart Sales Forecast](https://github.com/Matheus-Homem/bigmart-sales-forecasting) (On Going)
