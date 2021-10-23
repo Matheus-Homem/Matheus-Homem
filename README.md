@@ -24,3 +24,4 @@
 
 - [Churn Prediction](https://github.com/Matheus-Homem/churn-project) (Completed)
 - [Russian Store Sales Forecast](https://github.com/Matheus-Homem/russian_store_forecast) (Completed)
+- [Insiders Clustering](https://github.com/Matheus-Homem/insiders_clustering) (On-Going)
