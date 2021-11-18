@@ -9,7 +9,7 @@
 
 - International Banking Marketing (In Progress)
   - [Code](https://github.com/Matheus-Homem/international_bank_marketing)
-  - Article (Not Avaliable)
+  - Article (Not Finished)
 - Russian Store Sales Forecast (Completed)
   - [Code](https://github.com/Matheus-Homem/russian_store_forecast)
   - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-regress%C3%A3o-previs%C3%A3o-de-vendas-96542812710)
