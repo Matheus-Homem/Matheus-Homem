@@ -7,9 +7,9 @@
 
 ## My Projects:
 
-- International Banking Marketing (In Progress)
+- International Banking Marketing (Completed)
   - [Code](https://github.com/Matheus-Homem/international_bank_marketing)
-  - Article (Not Finished)
+  - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-clusteriza%C3%A7%C3%A3o-segmenta%C3%A7%C3%A3o-dos-clientes-de-um-banco-49604209eb25?source=collection_home---4------0-----------------------)
 - Russian Store Sales Forecast (Completed)
   - [Code](https://github.com/Matheus-Homem/russian_store_forecast)
   - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-regress%C3%A3o-previs%C3%A3o-de-vendas-96542812710)
