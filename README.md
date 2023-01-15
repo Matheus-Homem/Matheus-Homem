@@ -1,7 +1,7 @@
 # Hi there! My name is Matheus Homem! ✌
 
 ## If you are wondering who I am:
- - 📊 Data Science Student
+ - 📊 Data/Analytics Engineer
  - 📝 [Medium Writer](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia)
  - 🚀 Data Driven
 
