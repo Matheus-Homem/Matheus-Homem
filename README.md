@@ -18,13 +18,13 @@
   - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-classifica%C3%A7%C3%A3o-previs%C3%A3o-de-churn-957988791e4f)
   
 ## Skills:
+ - 🫱🏼‍🫲🏿 Teamwork
  - 🐍 Python
- - 🦾 Machine Learning
- - 🔢 Statistics
  - 📋 SQL
- - 📊 Power BI
- - 🌐 Webscrapping
-
+ - ⚡ Spark
+ - 🧠 Analytics
+ - ♻️ Extract, Transform, Load
+ 
 ## Talk to me!
 
 <div align="center">
