@@ -1,10 +1,5 @@
 # Hi there! My name is Matheus Homem! ✌
 
-## If you are wondering who I am:
- - 📊 Data/Analytics Engineer
- - 📝 [Medium Writer](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia)
- - 🚀 Data Driven
-
 ## My Projects:
 
 - International Banking Marketing (Completed)
