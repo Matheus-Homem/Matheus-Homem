@@ -1,19 +1,37 @@
-# Hi there! My name is Matheus Homem! ✌
+<h1 align="center">Hello there 👋, I'm Matheus Homem</h1>
 
-## My Projects:
+<h4 align="center"> 🟢Brazillian | 🕵️Problem Solver | 🏃‍♂️Runner </h4>
 
-- International Banking Marketing (Completed)
-  - [Code](https://github.com/Matheus-Homem/international_bank_marketing)
-  - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-clusteriza%C3%A7%C3%A3o-segmenta%C3%A7%C3%A3o-dos-clientes-de-um-banco-49604209eb25?source=collection_home---4------0-----------------------)
-- Russian Store Sales Forecast (Completed)
-  - [Code](https://github.com/Matheus-Homem/russian_store_forecast)
-  - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-regress%C3%A3o-previs%C3%A3o-de-vendas-96542812710)
-- Churn Prediction (Completed)
-  - [Code](https://github.com/Matheus-Homem/churn-project)
-  - [Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-classifica%C3%A7%C3%A3o-previs%C3%A3o-de-churn-957988791e4f)
+
+***
+
+<h2 align="center">Data Engineer Projects</h2>
+
+### Compass Project
+
+- **Status:** *In Progress*
+- **[Repository](https://github.com/Matheus-Homem/engineer_project)**
+
+<h2 align="center">Data Science Projects</h2>
+
+### International Banking Marketing
+- **Status:** *Completed*
+- **[Repository](https://github.com/Matheus-Homem/international_bank_marketing)**
+- **[Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-clusteriza%C3%A7%C3%A3o-segmenta%C3%A7%C3%A3o-dos-clientes-de-um-banco-49604209eb25?source=collection_home---4------0-----------------------)**
+
+### Russian Store Sales Forecast
+- **Status:** *Completed*
+- **[Repository](https://github.com/Matheus-Homem/russian_store_forecast)**
+- **[Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-regress%C3%A3o-previs%C3%A3o-de-vendas-96542812710)**
+
+### Churn Prediction
+- **Status:** *Completed*
+- **[Repository](https://github.com/Matheus-Homem/churn-project)**
+- **[Article](https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-classifica%C3%A7%C3%A3o-previs%C3%A3o-de-churn-957988791e4f)**
+
   
 ## Skills:
- - 🫱🏼‍🫲🏿 Teamwork
+ - 🤝 Teamwork
  - 🐍 Python
  - 📋 SQL
  - ⚡ Spark
