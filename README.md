@@ -10,7 +10,7 @@
 ### Compass Project
 
 - **Status:** *In Progress*
-- **[Repository](https://github.com/Matheus-Homem/compass_project)**
+- **[Repository](https://github.com/Matheus-Homem/compass_projec)**
 
 <h2 align="center">Data Science Projects</h2>
 
