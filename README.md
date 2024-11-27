@@ -6,7 +6,7 @@
 
 ### Compass
 
-- **Status**: *In Progress*
+- **Status**: *Completed in 12/2024*
 - **[Repository](https://github.com/Matheus-Homem/compass_project)**
 - **Article**
 
