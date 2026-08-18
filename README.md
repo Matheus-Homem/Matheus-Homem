@@ -35,18 +35,6 @@ Building data platforms by day, tinkering with side projects by night.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/Matheus-Homem/benagi">🧘 Benagi</a></b><br>
-      Habit-journalling app for calm, mindful routine tracking.<br>
-      <sub><b>Python · Docker · IaC</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Matheus-Homem/EnduranceProject">🧭 Compass</a></b><br>
-      Effortless journaling project.<br>
-      <sub><b>Python · Completed 12/2024</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <b><a href="https://github.com/Matheus-Homem/streaming-project">📡 Streaming Project</a></b><br>
       Real-time data streaming pipeline exploration.<br>
       <sub><b>Python</b></sub>
@@ -55,6 +43,18 @@ Building data platforms by day, tinkering with side projects by night.
       <b><a href="https://github.com/Matheus-Homem/technical-learning-mentor">🎓 Technical Learning Mentor</a></b><br>
       A Claude Code skill for guided technical learning.<br>
       <sub><b>Shell</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Matheus-Homem/EnduranceProject">🧭 Compass</a></b><br>
+      Effortless journaling project.<br>
+      <sub><b>Python · Completed 12/2024</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Matheus-Homem/international_bank_marketing">🏦 International Banking Marketing</a></b><br>
+      Customer segmentation for credit-card marketing campaigns. <a href="https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-clusteriza%C3%A7%C3%A3o-segmenta%C3%A7%C3%A3o-dos-clientes-de-um-banco-49604209eb25">Article</a><br>
+      <sub><b>Jupyter Notebook · Clustering</b></sub>
     </td>
   </tr>
   <tr>
@@ -68,14 +68,6 @@ Building data platforms by day, tinkering with side projects by night.
       Forecasting store sales for a Russian retail chain. <a href="https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-regress%C3%A3o-previs%C3%A3o-de-vendas-96542812710">Article</a><br>
       <sub><b>Jupyter Notebook · Regression</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Matheus-Homem/international_bank_marketing">🏦 International Banking Marketing</a></b><br>
-      Customer segmentation for credit-card marketing campaigns. <a href="https://medium.com/dos-dados-%C3%A0-ci%C3%AAncia/projeto-de-clusteriza%C3%A7%C3%A3o-segmenta%C3%A7%C3%A3o-dos-clientes-de-um-banco-49604209eb25">Article</a><br>
-      <sub><b>Jupyter Notebook · Clustering</b></sub>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
